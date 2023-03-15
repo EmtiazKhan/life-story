@@ -6,3 +6,4 @@ I have completed my MSc in 2021
 I have started my full stack web development job in 2021.
 I will join at mfile 1st of december. 
 logo alignment is centered
+this text is added from main branch.
